@@ -1,0 +1,404 @@
+
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);;
+}
+
+#header-h {
+    color: white;
+    font-size: 2.5rem;
+    font-family: Lato;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header a {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+    font-size: 1.43rem;
+}
+
+#first-section {
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    color: white;
+}
+
+#first-section-col {
+    max-width: 50%;
+    margin: auto;
+}
+
+#first-section h1 {
+    font-size: 5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#hr1 {
+    max-width: 20%;
+    color: rgb(245, 245, 39);
+    margin: 40px auto;
+    border: 4px solid rgb(240, 236, 227);
+    border-radius: 5px;
+}
+
+#first-section p {
+    font-size: 2.3rem;
+    color: rgb(226, 217, 206);
+    font-weight: light;
+    margin-bottom: 100px;
+}
+
+#first-section button {
+    background: linear-gradient(to right, #ddc53b, #c7ae24, #e0c83e);
+    color: rgb(255, 255, 255);
+    font-size: 2.2rem;
+    font-weight: bold;
+    padding: 10px 50px;
+    border: none;
+}
+
+#prednosti {
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+}
+
+#prednost-con {
+    max-width: 70%;
+    margin: auto;
+   
+}
+
+#prednosti h1 {
+    font-size: 4rem;
+    margin-bottom: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+#prednosti hr {
+    max-width: 20%;
+    margin: 60px auto;
+    border: 3px solid rgb(240, 236, 227);
+}
+
+#prednost-col {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    background: #E3FDF5;
+    background: linear-gradient(
+      to right,
+      #c8ddd7,#ccc3ca
+    );
+    border-radius: 8px;
+    box-shadow: 0 0 6px white;
+}
+
+#prednost-col:hover {
+    transform: translateY(-10px);
+    transition: transform 0.3s;
+}
+
+#prednosti p {
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+#prednosti i {
+    color: rgb(211, 170, 95);
+    font-size: 4rem;
+    margin-top: 40px;
+}
+
+#usluge {
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+}
+
+#usluge-con {
+    max-width: 80%;
+    margin: auto;
+}
+#usluge-col {
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    background: #E3FDF5;
+    background: linear-gradient(
+      to right,
+      #c8ddd7,#ccc3ca
+    );
+    border-radius: 8px;
+    position: relative;
+    padding: 10px;
+    box-shadow: 0 0 6px white;
+}
+
+#usluge-col:hover {
+    transform: translateY(-10px);
+    transition: transform 0.5s;
+}
+#usluge h1 {
+    font-size: 5rem;
+    margin-bottom: 40px;
+    font-weight: bold;
+    color: white;
+}
+#usluge hr {
+    max-width: 20%;
+    margin: 60px auto;
+    border: 3px solid rgb(240, 236, 227);
+}
+
+#usluge i {
+    color: rgb(211, 170, 95);
+    font-size: 4.2rem;
+    margin-top: 40px;
+}
+
+#usluge h2 {
+    font-size: 2.5rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#usluge p {
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+#usluge h3 {
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    font-size: 2.5rem;
+    color: rgb(180, 125, 23);
+    font-weight: bold;
+}
+
+#iskustva {
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+}
+
+#iskustva-con {
+    max-width: 75%;
+    margin: auto
+}
+
+#iskustva-col {
+    background-color: white;
+    width: 430px;
+    height: 350px;
+    background: #E3FDF5;
+    background: linear-gradient(
+      to right,
+      #c8ddd7,#ccc3ca
+    );
+    border-radius: 8px;
+    padding: 0;
+    position: relative;
+    filter: opacity(0.8);
+    margin-bottom: 70px;
+    box-shadow: 0 0 6px white;
+}
+
+#iskustva-col:hover {
+    transform: translateY(-10px);
+    transition: transform 0.5s;
+}
+
+#iskustva h1 {
+    font-size: 5rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+#iskustva hr {
+    max-width: 20%;
+    margin: 20px auto;
+    border: 3px solid rgb(240, 236, 227);
+}
+
+#iskustva p {
+    font-size: 1.75rem;
+    font-style: italic;
+}
+
+#iskustva h3 {
+    position: absolute;
+    width: 100%;
+    bottom: 60px;
+    font-weight: 630;
+}
+
+#row2 {
+    max-width: 60%;
+    margin: auto;
+}
+
+#iskustva-col2 {
+    border-radius: 50%;
+    color: #ebcf2f;
+    border: 3px solid #ebcf2f;
+    width: 220px;
+    height: 220px;
+}
+
+#iskustva-col2 h2,
+#iskustva-col h4 {
+    font-weight: bold;
+    font-size: 3.3rem;
+}
+
+#rezervacija {
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    padding-top: 100px;
+}
+#rezervacija-con {
+    max-width: 50%;
+    margin: auto;
+}
+
+#rezervacija-col {
+    background-color: white;
+    background: #E3FDF5;
+    background: linear-gradient(
+      to right,
+      #a5b4b0b6,#bdb5bba9
+    );
+    border-radius: 8px;
+    padding: 0;
+    position: relative;
+    margin-bottom: 20px;
+    box-shadow: 0 0 6px white;
+}
+
+#rezervacija h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin: 10px auto;
+}
+
+#rezervacija hr {
+    max-width: 20%;
+    margin: auto;
+    border: 3px solid rgb(0, 0, 0);
+    color: black;
+}
+
+form {
+    width: 100%;
+    padding: 10px;
+}
+
+form div {
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+
+form label {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input {
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 100%;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 1.3rem;
+    background: rgb(230, 223, 223);
+    margin-bottom: 0;
+}
+
+#usluge-label {
+    background: rgb(230, 223, 223);
+    border: none;
+    width: 100%;
+    height: 50px;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-top: 0;
+}
+
+#napomene {
+    height: 80px;
+    width: 100%;
+    border: none;
+    padding: 5px 10px;
+    font-size: 1.2rem;
+    background: rgb(230, 223, 223);
+}
+
+#submit-button {
+    background: linear-gradient(to right, #ad9b2e, #bea71f, #ad9b2e);
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 5px 30px;
+    border: none;
+    width: 300px;
+    margin: auto;
+}
+
+#kontakt {
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+}
+
+#kontakt h1 {
+    font-size: 6rem;
+    margin-bottom: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+#kontakt hr {
+    max-width: 20%;
+    color: rgb(245, 245, 39);
+    margin: 40px auto;
+    border: 4px solid rgb(240, 236, 227);
+    border-radius: 5px;
+}
+
+#kontakt p {
+    font-size: 2rem;
+    font-weight: 200;
+    color: white; 
+    margin-bottom: 20px;
+}
+
+#kontakt h3 {
+    color: white;
+    font-size: 6rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.wa {
+    color: greenyellow;
+    font-size: 4.5rem;
+    margin-right: 100px;
+}
+
+.viber {
+    color: rgb(194, 85, 194);
+    font-size: 4.5rem;
+    margin-left: 100px;
+}
+
+footer {
+    height: 60px;
+    background: black;
+    color: gray;
+    font-size: 1.2rem;
+}
